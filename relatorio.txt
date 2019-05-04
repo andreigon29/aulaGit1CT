@@ -1,0 +1,9 @@
+Comandos usados para no Git
+git config --golbal user.name para identificar o meu nome
+git config --global user.email para identificar o meu e-mail
+mkdir para criar uma pasta
+cd para acessar a pasta criada
+ls para verificar o conteúdo na pasta criada
+git add "nome do arquivo para rastrear o arquivo
+git commit -m "~~~~~" para indicar as alterações feitas no arquivo
+
